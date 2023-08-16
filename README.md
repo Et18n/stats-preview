@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Et18n/stats-preview]()
-- Live Site URL: [https://elegant-fenglisu-1a3ce5.netlify.app]()
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here]()
 
 ## My process
 
@@ -47,4 +47,4 @@ I would like to fix the image colour and try out a bit of javascript in the futu
 
 
 ### Screenshot
-![Screenshot](./images/screenshot.png)
+![Screenshot](./screenshot.png)
