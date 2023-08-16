@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Et18n/stats-preview]()
-- Live Site URL: [https://elegant-fenglisu-1a3ce5.netlify.app/]()
+- Live Site URL: [https://elegant-fenglisu-1a3ce5.netlify.app]()
 
 ## My process
 
