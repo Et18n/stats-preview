@@ -30,14 +30,17 @@ body{
 img{
     width:100%;
     height:100%;
-    object-fit: cover;
+}
+.right{
     position: relative;
 }
-img::after{
+
+.right::after{
     position: absolute;
     content: '';
     background-color: var(--soft-violet);
-    opacity: 0.1;
+    mix-blend-mode: multiply;
+    opacity: 0.8;
     top: 0;
     left: 0;
     height: 100%;
